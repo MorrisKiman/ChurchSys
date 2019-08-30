@@ -1,0 +1,111 @@
+create table Users(
+User_ID int(6) auto_increment not null primary key,
+User_Name varchar(40) not null,
+Other_Names varchar(100) not null,
+insignia varchar(100) not null);
+
+/use logs table;
+
+create table User_Logs(
+Log_ID int(100) auto_increment not null primary key,
+User_Name varchar(40) not null,
+insignia_used varchar(100) not null,
+Login_Status varchar(10) not null,
+Login_Time datetime not null,
+Logout_Time datetime);
+
+//memebers table
+
+create table Church_Members(
+#
+#Applicant's details first
+#
+Memeber_ID int(4) auto_increment not null primary key,
+Title varchar(4) not null,
+Full_Names varchar(100) not null,
+Date_of_Birth date not null,
+Place_of_Birth varchar(100) not null,
+Age_Bracket varchar(7) not null,
+Telephone_Number varchar(15) not null,
+Email_Address varchar(100) default "N/A",
+Profession varchar(50) default "N/A",
+Occupation varchar(50) not null,
+Employer varchar(50) default "N/A",
+Residence varchar(50) not null,
+#
+#Now for the Church Details
+#
+Home_Parish varchar(50) not null,
+Local_Church varchar(50) not null,
+Home_Diocese varchar(50) not null,
+Baptized varchar(4) default "No",
+Year_Baptized varchar(8) default "N/A",
+Place_of_Baptism varchar(50) default "N/A",
+Baptized_By varchar(100) default "N/A",
+Confirmed varchar(4) default "No",
+Year_Confirmed varchar(8) default "N/A",
+Place_of_Confirmation varchar(50) default "N/A",
+Confirmed_By varchar(100) default "N/A",
+Receive_Holy_Communion varchar(4) default "No",
+Reason varchar(500),
+#
+#Marital Stutus now
+#
+Marital_Status varchar(10) Not Null,
+Form_Of_Marriage varchar(12),
+Year_Married datetime not null,
+Location_Of_Marriage varchar(100),
+Specify_other varchar (200),
+#
+#Spouse details
+#
+#I am thinking of double dealing this section. Part of it iende kwa table yenye iko na hizi details then the rest iende kwa table ya watoto
+#I will revisit this :)
+Name varchar(100) not null,
+Spouce_Occupation varchar(100) not null,
+Tel_Number varchar(15) not null,
+Employer_ varchar(50) default "N/A",
+#
+#Services
+#
+Prefered_Service varchar(20) Default "English Service",
+Confortable_with_Service_Timeing varchar(5) default "yes",
+If_No_Why varchar(500),
+#
+#Church MEmbership stuff... almost done with the database :)
+#
+Born_Again varchar(5) not null,
+Enrolled_in varchar(16) default "N/A",
+Why_Not varchar(500),
+Cell_Group varchar(15) not null,
+Attend_Fellowships varchar(5) not null,
+Why_not_attend varchar(500),
+Member_for_How_Long varchar(4) not null,
+Formaer_CHurch varchar(100) not null,
+Diocese varchar(50) not null,
+Why_Relocate_here varchar(500),
+#
+#Lets share talents and stuff like that :) almost done morris... just a few more
+#
+Areas_of_Participation varchar(500),
+#
+#finally........... comments :)
+#
+comments varchar(500));
+
+/// time to mush up the place with the kids table...... Morris Out!
+
+#
+#the kids table.. finally
+#
+create table Children(
+Child_ID int not null auto_increment primary key,
+Child_Full_Names varchar(100) not null,
+Child_DOB date not null,
+Baptized varchar (4) default 'NO',
+Confirmed varchar (4) default 'NO',
+Names_of_Father varchar (100),
+Contacts_of_Father varchar (15),
+Names_of_Mother varchar (100),
+Contacts_of_Mother varchar (15),
+Age_of_Child varchar(2));

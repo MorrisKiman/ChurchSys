@@ -1,0 +1,22 @@
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\bin\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.exe
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\bin\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.pdb
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\bin\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.xml
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Resources.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK St. Pauls Mukuyu-ini Data System.vbproj.GenerateResource.Cache
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.exe
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.xml
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.pdb
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.start_program.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Main_Menu.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Login.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Add_Members.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Add_Members2.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Add_Children.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\bin\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.exe.manifest
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\bin\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.application
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.TrustInfo.xml
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.exe.manifest
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.application
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Statistics.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.Edit_Members.resources
+C:\Users\Folio 13\Documents\Visual Studio 2010\Projects\ACK St. Pauls Mukuyu-ini Data System\ACK St. Pauls Mukuyu-ini Data System\obj\x86\Debug\ACK_St.Pauls_Mukuyu_ini_Data_System.AllMembersShow.resources

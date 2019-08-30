@@ -1,0 +1,98 @@
+##
+######## Add Members 1
+##
+AppFnames.Text
+title.Text
+AppDOB.Text
+ApplPOB.Text
+AgeBracket.Text
+Appl_PhoneNo.Text
+emailAdd.Text
+ApplProfession.Text
+ApplOccupation.Text
+ApplEmployer.Text
+Residence.Text
+HomeParish.Text
+LocalChurch.Text
+HomeDiocese.Text
+Baptized.Text
+BaptixedBy.Text
+PlaceBaptized.Text
+YearBaptized.Text
+Confirmed.Text
+PlaceConfirmed.Text
+ConfirmedBy.Text
+YearConfirmed.Text
+ReceivesCommunion.Text
+ynotreceivecommunion.Text
+MaritalStatus.Text
+MarriageForm.Text
+YearMarried.Text
+WeddingLocation.Text
+SpecOther.Text
+Havekids.Text
+SpouceNames.Text
+SpouceNo.Text
+SpoucepProfession.Text
+SpouceEmployer.Text
+#
+#AppFnames.Text or title.Text or AppDOB.Text or ApplPOB.Text or AgeBracket.Text or Appl_PhoneNo.Text or emailAdd.Text or ApplProfession.Text or ApplOccupation.Text or ApplEmployer.Text or Residence.Text or HomeParish.Text or LocalChurch.Text or HomeDiocese.Text or Baptized.Text or BaptixedBy.Text or PlaceBaptized.Text or YearBaptized.Text or Confirmed.Text or PlaceConfirmed.Text or ConfirmedBy.Text or YearConfirmed.Text or ReceivesCommunion.Text or ynotreceivecommunion.Text or MaritalStatus.Text or MarriageForm.Text or YearMarried.Text or WeddingLocation.Text or SpecOther.Text or Havekids.Text or SpouceNames.TextvSpouceNo.Text or SpoucepProfession.Text or SpouceEmployer.Text
+#
+#
+#Memeber_ID, Title, Full_Names, Date_of_Birth, Place_of_Birth, Age_Bracket, Telephone_Number, Email_Address, Profession, Occupation, Employer, Residence, Home_Parish, Local_Church, Home_Diocese, Baptized, Year_Baptized, Place_of_Baptism, Baptized_By, Confirmed, Year_Confirmed, Place_of_Confirmation, Confirmed_By, Receive_Holy_Communion, Reason, Marital_Status, Form_Of_Marriage, Year_Married, Location_Of_Marriage, Specify_other, Name, Spouce_Occupation, Tel_Number, Employer_, Prefered_Service, Confortable_with_Service_Timeing, If_No_Why, Born_Again, Enrolled_in, Why_Not, Cell_Group, Attend_Fellowships, Why_not_attend, Member_for_How_Long, Formaer_CHurch, Diocese, Why_Relocate_here, Areas_of_Participation, comments
+#
+
+##
+######## Add Members 2
+##
+
+PrefService.Text
+ComfTiming.Text
+WhyUncWithSerTme.Text
+bornAgain.Text
+EnrolledIn.Text
+ynotEnrolled.Text
+CellGroup.Text
+AttFellowship.Text
+ynotAttFel.Text
+Memberlength.Text
+FormerDiocese.Text
+FormerChurch.Text
+yrelocate.Text
+participation.Text
+improvement_comment.Text
+
+##
+#######DB VALUES
+##
+
+Prefered_Service
+Confortable_with_Service_Timeing
+If_No_Why
+Born_Again
+Enrolled_in
+Why_Not
+Cell_Group
+Attend_Fellowships
+Why_not_attend
+Member_for_How_Long
+Formaer_CHurch
+Diocese
+Why_Relocate_here
+Areas_of_Participation
+comments
+##
+####
+##
+
+##Prefered_Service, Confortable_with_Service_Timeing, If_No_Why, Born_Again, Enrolled_in, Why_Not, Cell_Group, Attend_Fellowships, Why_not_attend, Member_for_How_Long, Formaer_CHurch, Diocese, Why_Relocate_here, Areas_of_Participation, comments
+#
+##PrefService.Text ComfTiming.Text WhyUncWithSerTme.Text bornAgain.Text EnrolledIn.Text ynotEnrolled.Text CellGroup.Text AttFellowship.Text ynotAttFel.Text Memberlength.Text FormerDiocese.Text FormerChurch.Text yrelocate.Text participation.Text improvement_comment.Text
+
+
+//the children's table 
+
+##Child_ID, Child_Full_Names, Child_DOB, Baptized, Confirmed, Names_of_Father, Contacts_of_Father, Father_Member_Number, Names_of_Mother, Contacts_of_Mother, Age_of_Child, Mother_Member_Number
+#
+#
+##ChildName.Text, Child_DOB.Text, Child_Baptized.text, Child_Confirmed.Text, Fathers_Names.Text, Contacts_of_Father.Text, Father_Member_Number.Text, Names_of_Mother.Text, Contacts_of_Mother.Text, Mother_Member_Number.text
